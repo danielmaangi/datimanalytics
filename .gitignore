@@ -9,3 +9,5 @@ data/data.txt
 .DS_Store
 .quarto
 cheat.R
+.env
+test.R
