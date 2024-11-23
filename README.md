@@ -26,7 +26,7 @@ You can install the development version of `smutils` from GitHub using the `devt
 # If you don't have devtools installed, install it first
 install.packages("devtools")
 
-# Install the development version of smutils
+# Install the development version of datimanalytics
 devtools::install_github("danielmaang/datimanalytics")
 ```
 
