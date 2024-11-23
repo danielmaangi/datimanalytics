@@ -11,3 +11,4 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/danielmaangi/datimanalytics
 BugReports: https://github.com/danielmaangi/datimanalytics/issues
+RoxygenNote: 7.3.2

@@ -20,13 +20,13 @@
 ## Get Involved
 Contributions are welcome! Whether it's enhancing existing features, adding new capabilities, or improving documentation, your input will help make datimanalytics even better.
 
-You can install the development version of `smutils` from GitHub using the `devtools` package:
+You can install the development version of `datimanalytics` from GitHub using the `devtools` package:
 
 ``` r
 # If you don't have devtools installed, install it first
 install.packages("devtools")
 
 # Install the development version of datimanalytics
-devtools::install_github("danielmaang/datimanalytics")
+devtools::install_github("danielmaangi/datimanalytics")
 ```
 

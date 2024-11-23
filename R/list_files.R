@@ -1,6 +1,6 @@
-#' List Files in the Data Directory
+#' List DATIM files in a directory
 #'
-#' This function lists all files in the specified "data/" directory.
+#' This function lists all DATIM files in the specified "data/" directory.
 #' It provides the full file paths, making it easier to reference files for further processing.
 #'
 #' @param path A character string specifying the path to the directory. Defaults to "data/".

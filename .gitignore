@@ -8,3 +8,4 @@ data/data.txt
 .httr-oauth
 .DS_Store
 .quarto
+cheat.R
